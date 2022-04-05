@@ -3,6 +3,8 @@ function init(){
   function alertFunction(){
       var j1 = document.getElementById("entryinput").value;
       var j2 = document.getElementById("textoutput");
+      alert("Jordan Plewa: " + j1);
+      j2.innerHTML = j1;
   }
 
     
