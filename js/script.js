@@ -10,11 +10,3 @@ function init(){
   j3.addEventListener("click" , alertFunction);
 }
 window.addEventListener('load' , init);
-    
-    
-    
-    
-    
-    
-    
-    window.addEventListener('load', init);
